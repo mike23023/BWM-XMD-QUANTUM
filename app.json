@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VV25KqOBT9lzzMC54xAnKxqquGi+JdURF1ah4CBES5mQQFT/nvU7Td1V0z55zpoXhIhWTttfZee/MdZHlM8QTXoPcdFCS+IoabJasLDHpAL8MQE9ACAWII9IDWD7YlgWs1YK7Zxz6aTqJ9fyju8u7JPt+kTbC7+aoDuT59AY8WKEovif1fAAqjU0duY6lwD8V0MRyu5uXd3YudTXLeSjSpdbk0pUohVQ1fwKNBRDGJs6hfHHGKCUomuF6imHyNPppG6Vjhtty2KMXtoQoTM51LF95FWrBHm/gyKjZZYuncwP4afbUvKgutFOI5o9Vsgq+6a5yN/rAKXKH0nHwycQ6ud+Gmx9uTPo2jDAejAGcsZvWX8y6OgoreJnzsUNVbMnUYHXMvTbfy6R7R/WG1MGbOuCrRQvgicaTnbUYml3H7EvOnWwldW6RLOZVwW9XUXZWWUrebDL1xQj8TX5J3r5z/T94j3a5CAiN0LMMygie2sttogLTtgPlc/6zYCbx0FKi5nfxr9ONIg9RXTcWbVMnNlsMZL3n9082JysKqxVUhzOOsfc8LKH7QR6wkv2IZ7E5GupEM8w53nHrnTvUN1nt3aJlXw9i2Z5Thqz1Lrybc2gOVmw8GvO5d1Ho4o92c5dr4TA67e21G6cUlKz6dlpurbr+8KjrjehSAXufRAgRHMWUEsTjPXvdkvgVQcF1jn2D2ml5AJrw3Qgu51kejkbRUR8Xe2AX84gCvon4OSRWjaDZ1toOb8gJaoCC5jynFwTCmLCf1DFOKIkxB78/XSjWiCU5zhsdxAHqgC1VRlnhV6nT+oL/fjohRVBS/Z5iBFghJns4w6DFS4hZ4PS8r0JT5rgqFfvOKJpRgF/YHJpQ6xkBVG4XpM+YmTjFlKC0aYaKkdARRFh9/tUCGK/a0TyNa6LRAGBPKnKwskhwF7956/4h8Py8ztq4z32gWmIAe/NjGjMVZRBthZYaIf4yv2Gh0gF6IEoofLRDga+zjBg/AC4muahKt4bqUpQLJunWZR03ijnn2PNLtBEgWEf4mCAr8JvIK/w35gfgNdjshz6tBiBQPNOl4dm5z56dGsmTo8CsYDoP7NIGRVcuSzo+E2zhwXs3wdAAmOHjPsof8c1ls8jPOfoG74TZepF4Srz4OLaKVrm11NwJnBgf6CffpLND7/jEtjTxo8Nz1UlLWug6aajVx/mmGXvffdshQcxak59+aEG/5by4HmKE4oaAHjMVOIFPH7C8vJudrlqXNIs2INPBRr/f2e9o71eb2WqhOyXGRboX7VZ20o+hwyG5eeyDbpXIpuWWZb6lfjV5+ANI4cnQ38F5PB37uuHZwqRUVnkNnMKgrPBuNl9bqCJVJmJdLYxpsCTndOORbU7YRr1UgDteQ6+/uyizau7aDJNsaq6Vs3l6aaE/ffA7mbYpEMaaZlVvbiDvQgLvM7iF/1/tHamfzbn81Ssh8e1CETEFTab5z1IzfrRlRO8db5lo3QW2vF9NBu5vwB2LPTwNL1bTnYHgdTMnbDyF+a9mny8IYv87Xtwr8R50+7A4frU8Ib/P6J5bSD5Hp9Jmy7+43RRIocnt9FUeWe1CsdoXh9Doh15N8GXjD2Ro8mj4uEsTCnKSgB2jqIdACCaJM+2jXH0wAUWqBtNaKYs0Qe+9yoDWP3tmCx99woeVihwgAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
