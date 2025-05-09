@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,✅,👀,🤴,😎,🥳,🥺",
       "required": false 
     },
     "AUTO_REACT": {
@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VVy5KqSBT8l1rMRnoEEREjOmIAEb0KPniITtwFQoElT6sKEDv63ydou6N7MfdOD6sKqMqTlSfz8ALyAhG4hC2YvIASo9qnsFvStoRgApQqiiAGDAh96oMJIDO3UGZoMG6k+ZJ45ihSoTO/amnZM+1kb2rbhcld97fGM57BKwPK6pSi4DeAg6l2ZklLoDNqXHSdGyxrzQo9Hmb+dA77LiG6wW6yo6ssnsFrh+gjjPJYK88wg9hPl7Dd+Ah/j367caZeI5WRbXtbOeQrMriWN3Zk1EXq3uW1spTynqO3m3nzPfq72FDyshCx47rsrDUTNPK2LqbnOtpFdhQ26UoyNwd+5sYP+gTFOQwXIcwpou23dV9rXBKpXJrP8r0infHloCp4ag3cdLqvPO62Mnr8cqdaNEm+R1znb47uhugs5ZYde6p2EufpLki2SWTnHGv+cEtYxJUwa8lX4hv84ZXk/+jua8ejUyhHYqzDfr7jhVRGhnsVY3dsLEjcU9z0KmBlu3aC79GXt00wWhVE3MyPrNp6dbIL3NnGkjfNeU+XarO5XyWX56r59pO+Tyv8O5ZGXlza9pLW1bpIF6Y+HV8TYqyTqeRkmLuLu8MdacVxK1W6TmYt1kljNfpdCA7qPqp2eD0vF02/nq7PPY3fkHDvjd1L8/x2owS2ixBMuFcGYBgjQrFPUZG/vWMFBvhhbcEAQ/omL9hfKw/COjsZgWgGPKLLfDhAruyG2kq7uTTLhdMFCeV8ET8DBpS4CCAhMJwjQgvcGpAQP4YETP7+yYAc3uijcV05nmNAhDChTl6VaeGHH139+OgHQVHl1GrzQO0WEIMJ+/kaUorymHQ6VrmPgzOqoXr2KQGTyE8JfGVACGsUwA4PHJynmcKpiTUa7UI14rj5XQ6ajvK5yB9bQl6AkBWGT5E/jJ6GcDx4GosSfIIRF4SRMBT4gQQYgN4z0535tdGiVWKcXF5dN/ML3rXr/vVo9jzLOT8C/dAeYhiCCcUVZMDJD5KqtIsE5r/BTbho01RY4pZ2oWSt1HK35bQXnK3W+IL76CmYvHzOKbUIOzxPWg7NobQFDMjeLIi6mwusNBRHA2nEcZPRX+TPppPRL8s/c0gBA3K/2wuy5I+uxLv+3eEQUh+lBEyAuvZ4vHKm2vqa9gJZ1+VtLKuxDD779WH8h7Ey2dxa/O2SnteZy99radmP4+Mxb079mbitxteqt6kKlwS3xfO/gIAJSOtxulM9UwjFce9ih0qP0/21dqjqsSYrgYVPO7aoevYADZvNXcqEdnk/1/llxJ/V2D56Idxva6mfkJt9X2lhPLUkXpWfu2oP33wtNqJIxPKyEK6Y2Ks71Z28jJVshfLezJ73p+XV/GGKp31utpvQUwVjm42IAm/Kj62zEVNWmvLH8rBCbWLSu90T1kjRY/kRybeRkL6PYvQWlpd3l0UIvk229w78R58+7c6+Ml8Q3iflLyylHOOpo9HxQTjYZRqOxb5VDxf6/jjW+zfIruolri/idXaaGxZ4ff3JgDL1aVTgrPsPZycfMCD1CZU/42qjDBLqZyWYcOJwNOZEccwzIGvlsrSoTz9SDuTuUTgXvP4DveJb9wEIAAA=",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
