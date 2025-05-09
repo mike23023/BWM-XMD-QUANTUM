@@ -60,7 +60,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,✅,🥳🥱😎🤡👀🐐🤴",
       "required": false 
     },
     "AUTO_REACT": {
@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VU246qSBT9l3qYF+0jKDdNOhlA8IIXEC8tk/NQQgklCFhVgNjx30+wu9OdSc6ZnrdKXdZetdba+xWkGabIQjUYvIKc4BIy1CxZnSMwAFpxPCIC2iCADIIBqIyE8mKwF2bhaDcbQby6dqKTaJxaNSWK4GdJNDoJCpxw3DO4t0FeHBLs/wFwZft9d+y93Ea77sJT5GW9O9X7FxbTaGzuPWSmmXuetMbBNnsG9wYRYoLT0MgjdEYEJhaqbYjJ9+j7tgqv19oyD7TYjMzRydKl2TJa9fBurHTRvNUdLi2tc5xvwu/Rz9MWWjnOzjhGK9OQN5YxLKZFtbcFvVK9izHVZQ+mch9xkzf6FIcpCiYBShlm9fd1H004cVokjCiaWMbuVUBJbTjZWQ+p7HL5lJ7i49qcr9LN94hLieog/uYJSR+TUPHDqlhFTAyP5vDaVyNPu2V0uCWH4sX/StwmH1mJ/4/ul6E9Xap4Mg02ujjkFpMFrlWTU4PL1TCF426klf5KC1rjXfU9+jxhL6qfhcE25vGLtjJjGvr1bM9xSk+lkrv1Z+kkdaIqVj/pQ1aQP7HUFV4uMy/pDuGalUIseRd/0bWthNyotNflyfzWK9BCcm6Xk3ic4Cw6LE7zF5uOlFWpWFgLOdYV7Ba6ZGvmEA8Ne55aPT9+FKN6EoABf28DgkJMGYEMZ2mz1+PaAAali3yC2ENd0PO92dAQMz+r1m5uLovIDpZ9xdM3XDCuDx2uR7DtVrJbTJ5BG+Qk8xGlKBhjyjJSzxGlMEQUDP752QYpurI33x7V+DY4YkLZJi3yJIPBh6kfh9D3syJlbp36erNABAy4z23EGE5D2shYpJD4ES6RHkFGweAIE4rubRCgEvuowQNZ7c12zNZWQ+s4ncFoLuecUTWUoyx9u6KgrsRDHz6JUOGeBE6CT4cuj576kggVP+ACGHRBG+D3lmne/NZBeXc6yqmWSPF13YWWtrGMc6ovFuqJPlx4kx4RFIABIwVqgwP04yJfZzFK/4C7iIc7HfeduA7GmcUWWb9HXV6RCix8wX2zFAxeP8eUngUNnrifzfiZwYM2OD8SiJufi1xfkKVuX+L5gfA3/VE1MsI8/5EiBtoghc1dcI7/akq86988DhCDOKFNYpcvPTLbDI3pTW7N1dFInYSqHqrg06+P3L8F66wuHLd3PSXR8rzt3cq+1QlDz0urQ8eUnUK5FC27yLbUvz6C9W8QMAD2ORBLEjHRvCTaKeBNp7bxBfPawVPI6XBbL/SlLZbDAxHGkrcaS4523TtBYGljC9W6w4dmrtluHsm38qJvi2rTUvSmST5y87XYNNmMwlG2XitRGplHpUz0jjqZzkxhbrji4dLlqsC5XLaVny1Dc7OWd92dh+OsXyO8E09bQ+LIjFsgv6q8LCnGxVi9as5bRz4mQvI+ifGjWV7fU3bE6DHY3h34D58+487d218Q3gflbyKleeFwYzBlL+7XeRIocscthclo5ymjzhVxs9Ii5Um+mIfx3AX3+882yBPIjhk5gwGg5wMEbZBAytTPdl3jM6IMnnMw4GVBUvhur9u//wJ/BCrf4wcAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -145,7 +145,7 @@
     },
     "AUDIO_CHATBOT": {
       "description": "Enable audio chatbot (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     }
   },
